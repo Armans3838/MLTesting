@@ -20,5 +20,12 @@ image by a given stride. For example, we can have a frame of size 5x5, and a str
 movement of the frame, a pattern is identified and formed from the training dataset. The model then
 utilizes that pattern during testing and becomes the basis of the model.
 
+### Key Terms
+**Transfer Learning**: The process of taking a pre-trained model and using it as the basis for a new model.
+**Neural Network Layers and Neurons**: Neural network layers are the building blocks of a neural network. They are responsible for processing and transforming the input data as it flows through the network. Each layer consists of a set of interconnected nodes, called neurons, which perform computations on the input data.
+**Epoch**: The number of times we run our model on the training data. The more epochs we run, the more our model learns, but too many epochs can result in overfitting.
+**Loss**: A value that represents how well our model is performing. The lower the loss, the better our model is performing. 
+
+
 ## Example
 Cover white blood cell project!
